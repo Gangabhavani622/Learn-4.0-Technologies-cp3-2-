@@ -43,6 +43,7 @@ body {
   margin: 8px;
   padding: 3px;
   flex-direction: row-reverse;
+  flex-wrap:wrap;
 }
 
 /* Write CSS code here */
